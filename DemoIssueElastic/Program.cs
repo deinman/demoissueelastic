@@ -1,6 +1,9 @@
 ﻿using Elastic.Clients.Elasticsearch;
 using Elastic.Transport;
 
+DefaultJsonNetSerializer();
+DefaultJsonNetSerializerUnsugared();
+
 Console.WriteLine("Hello, World!");
 return;
 

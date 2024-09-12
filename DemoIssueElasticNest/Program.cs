@@ -2,6 +2,9 @@
 using Elastic.Transport;
 using Nest.JsonNetSerializer;
 
+DefaultJsonNetSerializer();
+DefaultJsonNetSerializerUnsugared();
+
 Console.WriteLine("Hello, World!");
 return;
 
