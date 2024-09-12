@@ -1,8 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIssueElastic", "DemoIssueElastic\DemoIssueElastic.csproj", "{1D7907FC-6FF8-4435-A693-66A1CE0CBD87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIssueElasticNest", "DemoIssueElasticNest\DemoIssueElasticNest.csproj", "{F38BF73B-FA7D-43B7-AF64-4089FD9E82C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7907FC-6FF8-4435-A693-66A1CE0CBD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7907FC-6FF8-4435-A693-66A1CE0CBD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7907FC-6FF8-4435-A693-66A1CE0CBD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7907FC-6FF8-4435-A693-66A1CE0CBD87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38BF73B-FA7D-43B7-AF64-4089FD9E82C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38BF73B-FA7D-43B7-AF64-4089FD9E82C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38BF73B-FA7D-43B7-AF64-4089FD9E82C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38BF73B-FA7D-43B7-AF64-4089FD9E82C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
